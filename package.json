@@ -1,6 +1,6 @@
 {
   "name": "hexo-basedir-deployer-git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Git deployer plugin of Hexo base dir.",
   "main": "index",
   "scripts": {
